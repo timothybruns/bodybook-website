@@ -1,2 +1,2 @@
 # bodybook-website
-Site for BodyBook App
+Body Book App - Privacy Policy and Support
